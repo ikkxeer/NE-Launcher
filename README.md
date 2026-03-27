@@ -49,9 +49,14 @@ mi-proyecto/
 ├── .env.example
 └── README.md
 ```
-
 Con las dependencias ya instaladas. Solo tienes que abrir la carpeta y ejecutar:
-
 ```bash
 npm run dev
 ```
+
+## Página básica generada al hacer `npm run dev`
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/590112df-3b94-48a4-aefe-04bffcd011d3" />
+
+
+
+
